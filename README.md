@@ -57,7 +57,7 @@
 
 Администратор обладает всеми правами пользователя, а также может управлять пользователями и постами всех пользователей.
 
-[Backend Repo](https://github.com/Anitonchik/IP_SocialNetwork_Backend)  
+[Backend Repo](https://github.com/Anitonchik/IP_SocialNetwork_Backend)     
 [Frontend Repo](https://github.com/Anitonchik/IP_SocialNetwork_Frontend)
 
 ---
@@ -69,7 +69,7 @@
 
 Администратор может управлять пользователями, управлять бронированиями, создавать бронирования туров, перелётов и отелей для пользователя, а также генерировать ваучер поездки и отправлять его на почту пользователя.
 
-[Backend Repo](https://github.com/Anitonchik/TravelAgencyServer) 
+[Backend Repo](https://github.com/Anitonchik/TravelAgencyServer)      
 [Frontend Repo](https://github.com/Anitonchik/TravelAgencyClient)
 
 ---
@@ -95,7 +95,7 @@
 - получение списков занятий по выбранным материалам в формате текстового документа или электронной таблицы;
 - получение отчётов по кружкам с расшифровкой по интересам и медалькам за период — на почту или в программе.
 
-[Backend Repo](https://github.com/Anitonchik/CourseWork_School)
+[Backend Repo](https://github.com/Anitonchik/CourseWork_School)    
 [Frontend Repo](https://github.com/Anitonchik/CourseWork_School_Front)
 
 ---
